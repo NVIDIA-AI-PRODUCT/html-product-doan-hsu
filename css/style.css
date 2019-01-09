@@ -1,0 +1,70 @@
+.bg-img1 { 
+    /* The image used */
+    background-image: url("/4-html-hsu/img/skrrtskrrt.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img2 { 
+    /* The image used */
+    background-image: url("/4-html-hsu/img/news-AI-podcast-625.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img3 { 
+    /* The image used */
+    background-image: url("/4-html-hsu/img/skrrtskrrt.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img4 { 
+    /* The image used */
+    background-image: url("/4-html-hsu/img/skrrtskrrt.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img5 { 
+    /* The image used */
+    background-image: url("/4-html-hsu/img/skrrtskrrt.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.w3-display-container {align-content: center}
+
+.center {
+    line-height: 200px;
+    height: 200px;
+    border: 3px solid green;
+    text-align: center;
+}
+
+/* If the text has multiple lines, add the following: */
+.center p {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
